@@ -62,7 +62,6 @@ There will be 6 compulsory modules (total: 100 credits), 2 optional modules (tot
 | Hilary | Biomedical Image Analysis | 20 | Option | 16 | 32 |
 | Hilary | Epidemiology | 20 | Option | 16 | 32 |
 | Hilary | Machine Learning | 20 | Option | 16 | 32 |
-| Hilary | Infectious Diseases | 20 | Option | 16 | 32 |
 | Hilary | Social and Ethical Aspects of Biomedical Data Science | 10 | Core | 8 | 16 |
 | Hilary | Biomedical Modelling & Design | 10 | Core | 8 | 16 |
 | Trinity | Dissertation | 40 | Core | 6 | 240 |
