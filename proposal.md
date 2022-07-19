@@ -24,7 +24,7 @@ Higher level required.
 
 This MSc programme will provide a broad and deep taught introduction into many dimensions of modern biomedical data science. It will differs from existing Masters-level data science courses by focusing on elements which are most important for biomedical applications and linking to relevant biomedical problems throughout based around local research expertise within the institution. The course is designed for exceptional graduate students, primarily moving from non-biomedical science domains, and who are seeking to enter further postgraduate research study in biomedical data science.
 
-It is deliberately designed as a 9-month course to enable more diverse participation in course delivery.
+It is designed as a 9-month course to enable more diverse participation in course delivery.
 
 ## Intended Learning Outcomes
 
@@ -65,4 +65,4 @@ There will be 6 compulsory modules (total: 80 credits), 2 optional modules (tota
 | Hilary | Infectious Diseases | 20 | Option | 16 | 32 |
 | Hilary | Social and Ethical Aspects of Biomedical Data Science | 10 | Core | 8 | 16 |
 | Hilary | Biomedical Modelling & Design | 10 | Core | 8 | 16 |
-| Trinity | Dissertation | 60 | Core | 8 | 360 |
+| Trinity | Dissertation | 60 | Core | 8 | 240 |
