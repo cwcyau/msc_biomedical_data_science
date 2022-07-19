@@ -20,9 +20,9 @@ October
 
 Higher level required.
 
-## Context to development
+## Course Overview
 
-This MSc programme will provide a rapid
+This MSc programme will provide a broad and deep taught introduction into many dimensions of modern biomedical data science. This course differs from many existing Masters-level data science courses by focusing on elements which are most important for biomedical applications and linking to relevant biomedical problems throughout based around local research expertise within the institution.
 
 ## Expected entry requirements
 
@@ -31,7 +31,7 @@ Entrants are expected to have high-level proficiency in the following:
 1. Foundational mathematical topics including calculus, linear algebra, probability and statistics.
 2. Pre-existing programming skills in a modern language (including Python, C/C++, Java).
 
-This is likely to be achieved through undergraduate studies in quantitative subjects (e.g. mathematics, computer science, physics and engineering).
+This is likely to be achieved through undergraduate studies in quantitative subjects (e.g. mathematics, computer science, physics and engineering) at a minimum of 2.1 (or equivalent level). Applicants 
 
 ## Course Structure
 
