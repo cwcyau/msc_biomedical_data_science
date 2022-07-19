@@ -58,14 +58,14 @@ There will be 6 compulsory modules (total: 100 credits), 2 optional modules (tot
 
 | Term | Module Title | Credits | Type | Contact Hours | Self-study Hours |
 |------|--------------|---------|------|---------------|------------------|
-| Michaelmas | [Mathematics for Data Science](mathematics.md) | 20 | Core | 16 | 32 |
-| Michaelmas | Computing for Data Science | 20 | Core | 16 | 32 |
-| Michaelmas | Topics in Biomedical Science | 20 | Core | 16 | 32 |
-| Michaelmas | Biomedical Data Science in Practice | 20 | Core | 16 | 32 |
-| Hilary | Bioinformatics | 20 | Option | 16 | 32 |
-| Hilary | Biomedical Image Analysis | 20 | Option | 16 | 32 |
-| Hilary | Epidemiology | 20 | Option | 16 | 32 |
-| Hilary | Machine Learning | 20 | Option | 16 | 32 |
-| Hilary | Social and Ethical Aspects of Biomedical Data Science | 10 | Core | 8 | 16 |
-| Hilary | Biomedical Modelling & Design | 10 | Core | 8 | 16 |
-| Trinity | Dissertation | 40 | Core | 6 | 240 |
+| Michaelmas | [Mathematics for Data Science](modules/mathematics.md) | 20 | Core | 16 | 32 |
+| Michaelmas | [Computing for Data Science](modules/mathematics.md) | 20 | Core | 16 | 32 |
+| Michaelmas | [Topics in Biomedical Science](modules/topics.md) | 20 | Core | 16 | 32 |
+| Michaelmas | [Biomedical Data Science in Practice](modules/practice.md) | 20 | Core | 16 | 32 |
+| Hilary | [Bioinformatics](modules/bioinformatics.md) | 20 | Option | 16 | 32 |
+| Hilary | [Biomedical Image Analysis](modules/imaging.md) | 20 | Option | 16 | 32 |
+| Hilary | [Epidemiology](modules/epidemiology.md) | 20 | Option | 16 | 32 |
+| Hilary | [Machine Learning](modules/machine-learning.md) | 20 | Option | 16 | 32 |
+| Hilary | [Social and Ethical Aspects of Biomedical Data Science](modules/socialethics.md) | 10 | Core | 8 | 16 |
+| Hilary | [Biomedical Modelling & Design](modules/design.md) | 10 | Core | 8 | 16 |
+| Trinity | [Dissertation](modules/dissertation.md) | 40 | Core | 6 | 240 |
