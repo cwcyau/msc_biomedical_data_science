@@ -31,7 +31,9 @@ Entrants are expected to have high-level proficiency in the following:
 1. Foundational mathematical topics including calculus, linear algebra, probability and statistics.
 2. Pre-existing programming skills in a modern language (including Python, C/C++, Java).
 
-This is likely to be achieved through undergraduate studies in quantitative subjects (e.g. mathematics, computer science, physics and engineering) at a minimum of 2.1 (or equivalent level). Applicants 
+This is likely to be achieved through undergraduate studies in quantitative subjects (e.g. mathematics, computer science, physics and engineering) at a minimum of 2.1 (or equivalent level). 
+
+Applicants will be expected to take an admissions test interrogating these skills.
 
 ## Course Structure
 
