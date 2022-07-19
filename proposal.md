@@ -50,14 +50,14 @@ Applicants will be expected to take an admissions test interrogating these skill
 
 ## Course Structure
 
-There will be 6 compulsory modules (total: 80 credits), 2 optional modules (total: 40 credits) and a final research dissertation (total: 60 credits).
+There will be 6 compulsory modules (total: 100 credits), 2 optional modules (total: 40 credits) and a final research dissertation (total: 40 credits).
 
 | Term | Module Title | Credits | Type | Contact Hours | Self-study Hours |
 |------|--------------|---------|------|---------------|------------------|
 | Michaelmas | Mathematics for Data Science | 20 | Core | 16 | 32 |
 | Michaelmas | Computing for Data Science | 20 | Core | 16 | 32 |
-| Michaelmas | Topics in Biomedical Science | 10 | Core | 8 | 16 |
-| Michaelmas | Biomedical Data Science in Practice | 10 | Core | 8 | 16 |
+| Michaelmas | Topics in Biomedical Science | 20 | Core | 16 | 16 |
+| Michaelmas | Biomedical Data Science in Practice | 20 | Core | 16 | 16 |
 | Hilary | Bioinformatics | 20 | Option | 16 | 32 |
 | Hilary | Biomedical Image Analysis | 20 | Option | 16 | 32 |
 | Hilary | Epidemiology | 20 | Option | 16 | 32 |
@@ -65,4 +65,4 @@ There will be 6 compulsory modules (total: 80 credits), 2 optional modules (tota
 | Hilary | Infectious Diseases | 20 | Option | 16 | 32 |
 | Hilary | Social and Ethical Aspects of Biomedical Data Science | 10 | Core | 8 | 16 |
 | Hilary | Biomedical Modelling & Design | 10 | Core | 8 | 16 |
-| Trinity | Dissertation | 60 | Core | 8 | 240 |
+| Trinity | Dissertation | 40 | Core | 6 | 240 |
