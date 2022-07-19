@@ -16,6 +16,10 @@ Full-time only
 
 October
 
+## Expected annual intake 
+
+20-25
+
 ## English Language
 
 Higher level required.
