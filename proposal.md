@@ -48,7 +48,7 @@ Applicants will be expected to take an admissions test interrogating these skill
 
 ## Course Structure
 
-There will be 4 compulsory modules (total: 60 credits), 3 optional modules (total: 60 credits) and a final research dissertation (total: 60 credits).
+There will be 6 compulsory modules (total: 80 credits), 2 optional modules (total: 40 credits) and a final research dissertation (total: 60 credits).
 
 | Term | Module Title | Credits | Type | Contact Hours | Self-study Hours |
 |------|--------------|---------|------|---------------|------------------|
