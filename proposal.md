@@ -10,7 +10,7 @@ Full-time only
 
 ## Programme Length
 
-12 months
+9 months
 
 ## Expected Start 
 
