@@ -52,8 +52,8 @@ There will be 4 compulsory modules (total: 60 credits), 3 optional modules (tota
 
 | Term | Module Title | Credits | Type | Contact Hours | Self-study Hours |
 |------|--------------|---------|------|---------------|------------------|
-| Michaelmas | Mathematics for Data Science | 20 | Core | 24 | 32 |
-| Michaelmas | Computational for Data Science | 20 | Core | 24 | 32 |
+| Michaelmas | Mathematics for Data Science | 20 | Core | 16 | 32 |
+| Michaelmas | Computational for Data Science | 20 | Core | 16 | 32 |
 | Michaelmas | Topics in Biomedical Science | 10 | Core | 8 | 16 |
 | Michaelmas | Biomedical Data Science in Practice | 10 | Core | 8 | 16 |
 | Hilary | Bioinformatics | 20 | Option | 16 | 32 |
@@ -61,5 +61,6 @@ There will be 4 compulsory modules (total: 60 credits), 3 optional modules (tota
 | Hilary | Epidemiology | 20 | Option | 16 | 32 |
 | Hilary | Machine Learning | 20 | Option | 16 | 32 |
 | Hilary | Infectious Diseases | 20 | Option | 16 | 32 |
-| Hilary | Social and Ethical Aspect of Biomedical Data Science | 10 | Core | 8 | 32 |
+| Hilary | Social and Ethical Aspects of Biomedical Data Science | 10 | Core | 8 | 32 |
+| Hilary | Biomedical Modelling & Design | 10 | Core | 8 | 32 |
 | Trinity | Dissertation | 60 | Core | 8 | 360 |
