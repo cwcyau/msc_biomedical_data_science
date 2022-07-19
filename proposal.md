@@ -50,15 +50,15 @@ Applicants will be expected to take an admissions test interrogating these skill
 
 There will be 4 compulsory modules (total: 60 credits), 3 optional modules (total: 60 credits) and a final research dissertation (total: 60 credits).
 
-| Term | Module Title | Credits | Type | Lecture Hours |
-|------|--------------|---------|------|---------------|
-| Michaelmas | Mathematics for Data Science | 20 | Core | 16 |
-| Michaelmas | Computational for Data Science | 20 | Core | 16 |
-| Michaelmas | Topics in Biomedical Science | 10 | Core | 8 |
-| Michaelmas | Biomedical Data Science in Practice | 10 | Core | 16 |
-| Hilary | Bioinformatics | 20 | Option | 16 |
-| Hilary | Biomedical Image Analysis | 20 | Option | 16 |
-| Hilary | Epidemiology | 20 | Option | 16 |
-| Hilary | Machine Learning | 20 | Option | 16 |
-| Hilary | Infectious Diseases | 20 | Option | 16 |
-| Trinity | Dissertation | 60 | Core | - |
+| Term | Module Title | Credits | Type | Contact Hours | Self-study Hours |
+|------|--------------|---------|------|---------------|------------------|
+| Michaelmas | Mathematics for Data Science | 20 | Core | 16 | 32 |
+| Michaelmas | Computational for Data Science | 20 | Core | 16 | 32 |
+| Michaelmas | Topics in Biomedical Science | 10 | Core | 8 | 16 |
+| Michaelmas | Biomedical Data Science in Practice | 10 | Core | 8 | 16 |
+| Hilary | Bioinformatics | 20 | Option | 16 | 32 |
+| Hilary | Biomedical Image Analysis | 20 | Option | 16 | 32 |
+| Hilary | Epidemiology | 20 | Option | 16 | 32 |
+| Hilary | Machine Learning | 20 | Option | 16 | 32 |
+| Hilary | Infectious Diseases | 20 | Option | 16 | 32 |
+| Trinity | Dissertation | 60 | Core | 8 | 360 |
