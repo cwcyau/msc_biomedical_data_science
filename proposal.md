@@ -24,6 +24,8 @@ Higher level required.
 
 This MSc programme will provide a broad and deep taught introduction into many dimensions of modern biomedical data science. It will differs from existing Masters-level data science courses by focusing on elements which are most important for biomedical applications and linking to relevant biomedical problems throughout based around local research expertise within the institution. The course is designed for exceptional graduate students, primarily moving from non-biomedical science domains, and who are seeking to enter further postgraduate research study in biomedical data science.
 
+It is deliberately designed as a 9-month course to enable more diverse participation in course delivery.
+
 ## Intended Learning Outcomes
 
 At the end of the course, the students should be able to:
