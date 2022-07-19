@@ -54,8 +54,8 @@ There will be 4 compulsory modules (total: 60 credits), 3 optional modules (tota
 |------|--------------|---------|------|---------------|------------------|
 | Michaelmas | Mathematics for Data Science | 20 | Core | 24 | 32 |
 | Michaelmas | Computational for Data Science | 20 | Core | 24 | 32 |
-| Michaelmas | Topics in Biomedical Science | 10 | Core | 8 | 12 |
-| Michaelmas | Biomedical Data Science in Practice | 10 | Core | 12 | 16 |
+| Michaelmas | Topics in Biomedical Science | 10 | Core | 8 | 16 |
+| Michaelmas | Biomedical Data Science in Practice | 10 | Core | 8 | 16 |
 | Hilary | Bioinformatics | 20 | Option | 16 | 32 |
 | Hilary | Biomedical Image Analysis | 20 | Option | 16 | 32 |
 | Hilary | Epidemiology | 20 | Option | 16 | 32 |
