@@ -58,7 +58,7 @@ There will be 6 compulsory modules (total: 100 credits), 2 optional modules (tot
 
 | Term | Module Title | Credits | Type | Contact Hours | Self-study Hours |
 |------|--------------|---------|------|---------------|------------------|
-| Michaelmas | Mathematics for Data Science | 20 | Core | 16 | 32 |
+| Michaelmas | [Mathematics for Data Science](mathematics.md) | 20 | Core | 16 | 32 |
 | Michaelmas | Computing for Data Science | 20 | Core | 16 | 32 |
 | Michaelmas | Topics in Biomedical Science | 20 | Core | 16 | 32 |
 | Michaelmas | Biomedical Data Science in Practice | 20 | Core | 16 | 32 |
