@@ -34,6 +34,7 @@ It is designed as a 9-month course to enable more diverse participation in cours
 
 At the end of the course, the students should be able to:
 
+- understand the utility of analytical and computer-intensive methods in a number of biomedical science areas,
 - recall a range of analytical and computer-intensive methods applicable to biomedical data science,
 - demonstrate the ability to reformulate biomedical research questions into mathematical and/or computational problems,
 - choose and adapt appropriate analytical and computational methods to identify solutions,
